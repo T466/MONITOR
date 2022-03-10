@@ -1,8 +1,8 @@
 # Monitor
 Captura de processos
 
-Sabe aquele servidor que alarmou de madrugada CPU ou Memória e você viu o alerta só de manhã ? /n
-Com os scripts abaixo você será capaz de investigar qual aplicação ou banco de dados consumiu os /n
+Sabe aquele servidor que alarmou de madrugada CPU ou Memória e você viu o alerta só de manhã ?
+Com os scripts abaixo você será capaz de investigar qual aplicação ou banco de dados consumiu os
 recursos.
 
 # Configurando
